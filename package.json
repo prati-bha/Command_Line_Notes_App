@@ -1,0 +1,24 @@
+{
+  "name": "node_js_example",
+  "version": "1.0.0",
+  "description": "practicing node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "practice",
+    "node",
+    "js"
+  ],
+  "author": "pratibha",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.1.17",
+    "yargs": "^16.0.3"
+  }
+}
